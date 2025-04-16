@@ -29,7 +29,7 @@ Also: I have a not-so-secret obsession with post-punk bands (in case the Joy Div
 **A bilingual archive of untranslatable expressions.**  
 Search, explore, and contribute idioms that defy direct translation — because not everything fits neatly into two languages.
 
-![Idiomaticamente screenshot]((https://github.com/tedtheotheodoro/assets/blob/main/idiomaticamente.png?raw=true))
+![Idiomaticamente screenshot](https://github.com/tedtheotheodoro/assets/blob/main/idiomaticamente.png?raw=true)
 
 ---
 
