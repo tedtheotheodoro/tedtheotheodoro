@@ -11,7 +11,7 @@ Educational/experimental apps, language tools, and interactive music experiences
 
 📫 How to reach me:  
 - Email: theodorofragadecastro.dev@gmail.com  
-- LinkedIn: [[https://www.linkedin.com/in/theodoro-fraga-b3602332b/]([https://www.linkedin.com/in/theodoro-fraga-b3602332b/])  
+- LinkedIn: [[https://www.linkedin.com/in/theodoro-fraga-b3602332b/](https://www.linkedin.com/in/theodoro-fraga-b3602332b/)  
 - Portfolio: [tedtheotheodoro.dev](https://tedtheotheodoro.dev) (under construction 🚧)
 
 🙂 Pronouns: he/him | ele/dele  
