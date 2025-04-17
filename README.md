@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @tedtheotheodoro
+# 👋 Hi, I’m Theodoro Fraga.
 
 🎯 I’m interested in:  
 Linguistics + AI | Creative Coding | Web Development | Music History & Experimental Interfaces
