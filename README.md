@@ -39,10 +39,9 @@ Also: I have a not-so-secret obsession with post-punk bands (in case the Joy Div
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedtheotheodoro&show_icons=true&theme=default&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedtheotheodoro&layout=compact&theme=default&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tedtheotheodoro&show_icons=true&theme=tokyonight&hide_title=true&exclude_repo=theodorofraga.github.io" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedtheotheodoro&layout=compact&theme=tokyonight&hide_title=true&exclude_repo=theodorofraga.github.io" height="150" />
 </p>
-
 ---
 
 ## 🌟 Featured Projects
