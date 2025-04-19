@@ -11,14 +11,36 @@ Educational/experimental apps, language tools, and interactive music experiences
 
 📫 How to reach me:  
 - Email: theodorofragadecastro.dev@gmail.com  
-- LinkedIn: [[https://www.linkedin.com/in/theodoro-fraga-b3602332b/](https://www.linkedin.com/in/theodoro-fraga-b3602332b/)  
-- Portfolio: [[https://theodorofraga.vercel.app](https://theodorofraga.vercel.app/)]
+- LinkedIn: [https://www.linkedin.com/in/theodoro-fraga-b3602332b/](https://www.linkedin.com/in/theodoro-fraga-b3602332b/)  
+- Portfolio: [https://theodorofraga.vercel.app](https://theodorofraga.vercel.app/)
 
 🙂 Pronouns: he/him | ele/dele  
 
 ⚡ Fun fact:  
 I once built an Oscar simulator that gives you your post-win fate. It can label you a **global meme** or a **cult avant-garde** genius.  
 Also: I have a not-so-secret obsession with post-punk bands (in case the Joy Division t-shirt on profile pic didn't make it clear enough) and linguistic typology.
+
+---
+
+## 🚀 Tech Stack & Stats
+
+### 🛠️ Technologies I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tedtheotheodoro&show_icons=true&theme=default&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedtheotheodoro&layout=compact&theme=default&hide_title=true" height="150" />
+</p>
 
 ---
 
@@ -49,7 +71,6 @@ An interactive timeline of post-punk influence, musical identity, and cultural e
 
 ![Tuned to Dissonance screenshot](https://github.com/tedtheotheodoro/assets/blob/main/tuned-to-dissonance.png?raw=true)
 
----
 
 <!---
 tedtheotheodoro/tedtheotheodoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
